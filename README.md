@@ -1,0 +1,2 @@
+# HW-JS2
+JS EXERCISE
